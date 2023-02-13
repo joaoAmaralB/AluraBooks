@@ -166,8 +166,4 @@
     .container__texto {
         display: block;
     }
-
-    .opcoes__botao:checked ~ .opcoes__item {
-        background: var(--azul-degrade);
-    }
 }
